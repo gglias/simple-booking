@@ -10,7 +10,7 @@ Online appointment booking for a single hair salon in WordPress. Clients pick a 
 > [!NOTE]
 > **Built at Smartup.** This plugin was made at [Smartup](https://smartupweb.com) and may show the Smartup name by default in some places that can't be changed from the admin.
 >
-> **Need a white-label version?** Send me a message or email me at **[gregolia@gmail.com](mailto:gregolia@gmail.com)** and tell me what you need.
+> **Need a white-label version?** Send me a message or email me at **[gglias.pro@gmail.com](mailto:gglias.pro@gmail.com)** and tell me what you need.
 
 ## Features
 
