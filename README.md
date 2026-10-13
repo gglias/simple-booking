@@ -5,7 +5,7 @@
 Online appointment booking for a single hair salon in WordPress. Clients pick a service, a stylist and a time, and book as guests: no accounts, no online payments.
 
 > [!WARNING]
-> **Beta, still in development.** It works, but things may change between versions. Test it on a staging site before using it on a live one.
+> **Beta, still in development. Not ready for live sites yet.** There is no release to download. A stable version will be published in [Releases](../../releases) once testing is done.
 
 > [!NOTE]
 > **Built at Smartup.** This plugin was made at [Smartup](https://smartupweb.com) and may show the Smartup name by default in some places that can't be changed from the admin.
@@ -36,14 +36,9 @@ Prices are stored in euros, and times follow the salon's own time zone.
 - WordPress 6.4 or newer
 - PHP 8.0 or newer
 
-## Installation
+## Availability
 
-1. Download the latest `simple-booking.zip` from [Releases](../../releases).
-2. In WordPress go to **Plugins → Add New → Upload Plugin**, choose the zip and click **Install Now**.
-3. Activate **Simple Booking**, then add your services, staff and opening hours.
-4. Put `[simple_booking]` on a page, and `[simple_booking_appointment]` on another.
-
-Or clone this repository into `wp-content/plugins/simple-booking`.
+Not available to download yet. The code is here so you can follow its progress. When the first stable version is ready, it will appear in [Releases](../../releases) with install instructions.
 
 ## License
 
